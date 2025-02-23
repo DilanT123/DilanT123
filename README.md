@@ -1,9 +1,4 @@
-# 🧑‍💻 About Me:
-I am passionate about programming with nearly 4 years of experience since I started at university. My main focus is object-oriented programming, and I am highly proficient in languages like Java, C#, Python, JavaScript, PHP, MATLAB, and Node.js. I enjoy learning new languages and experimenting directly with project environments, as this allows me to understand how different parts of the system interact.
 
-I have worked on projects like Medical Appointments, a system built with Java Maven, and LabGameUPS-Beta, a video game developed in Unity. My focus is primarily on developing RESTful web services and video games, areas that I am truly passionate about.
-
-I firmly believe in resilience and adaptability, qualities that have allowed me to continue growing in such a dynamic field as computing. For me, everything related to programming is a constant source of motivation, and I am always eager to learn and improve my skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dilantorres3) 
